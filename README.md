@@ -88,6 +88,6 @@ Workplace safety monitoring, industrial automation, compliance systems.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/ml-mini-projects.git
+git clone (https://github.com/AMSGRAVITY/ML-Project.git)
 cd ml-mini-projects
 pip install -r requirements.txt
