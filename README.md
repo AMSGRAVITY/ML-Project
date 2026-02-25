@@ -1,15 +1,5 @@
 # 🧠 Machine Learning Projects Collection
 
-## 👥 Group Members
-
-| Name                        |
-|-----------------------------|
-| K Maneesh Kumar Reddy       |
-| P Sai Bhargav               |
-| R Gnanesh                   |
-| K Hari Kishan               |
-| G Sai Charan                |
-
 ---
 
 This repo contains a collection of small, focused machine learning projects built using Python and PyCharm. Each project demonstrates practical use-cases of computer vision, object detection, or classification.
